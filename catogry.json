@@ -1,0 +1,8 @@
+{
+  "categories": [
+    { "id": 1, "type": "chest" },
+    { "id": 2, "type": "back" },
+    { "id": 3, "type": "legs" },
+    { "id": 4, "type": "arms" }
+  ]
+}
